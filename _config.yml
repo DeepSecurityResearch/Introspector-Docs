@@ -6,7 +6,7 @@ description: "Offensive framework for deep HTTP/DNS exploitation: listeners, pay
 author: deepsecurity-pe
 
 # GitHub Pages settings
-url: https://DeepSecurityResearch.github.io
+url: https://www.introspector.sh
 baseurl: /Introspector-Docs
 
 # Build settings
