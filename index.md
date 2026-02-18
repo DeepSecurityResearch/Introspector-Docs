@@ -22,7 +22,7 @@ show_title: false
     .homecard * { color:inherit !important; }
   </style>
 
-  <a class="homecard" href="{{ '/getting-started/quickstart/' | relative_url }}"
+  <a class="homecard" href="{{ '/getting-started/quickstart' | relative_url }}"
      style="display:flex; gap:18px; padding:22px; border:1px solid rgba(255,255,255,.14); border-radius:16px; background:rgba(255,255,255,.02);">
     <div style="width:56px;height:56px;border:1px solid rgba(255,255,255,.14);border-radius:12px;display:flex;align-items:center;justify-content:center;">🚀</div>
     <div>
@@ -40,7 +40,7 @@ show_title: false
     </div>
   </a> -->
 
-  <a class="homecard" href="{{ '/screenshots/ui/' | relative_url }}"
+  <a class="homecard" href="{{ '/screenshots/ui' | relative_url }}"
      style="display:flex; gap:18px; padding:22px; border:1px solid rgba(255,255,255,.14); border-radius:16px; background:rgba(255,255,255,.02);">
     <div style="width:56px;height:56px;border:1px solid rgba(255,255,255,.14);border-radius:12px;display:flex;align-items:center;justify-content:center;">🖼️</div>
     <div>
